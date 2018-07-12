@@ -4,3 +4,5 @@ The two moons may be a problem for Wolfram.
 But the mummy will appreciate the lack of humidity
 This is a bad line. 
 This is Sam's change 
+
+This line added to Wolfman's copy
